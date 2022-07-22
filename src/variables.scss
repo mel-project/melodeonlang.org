@@ -1,0 +1,24 @@
+/* Variables and mixins declared here will be available in all other SCSS files */
+@import "bootstrap/scss/functions"; /* Override Bootstrap's variables here */
+$primary: #3225D1;
+$primary-light: mix($primary, white, 9%);
+$primary-dark: mix($primary, black, 66%);
+$secondary: #3225D1;
+// $body-bg: #f8fbfa;
+$body-bg:  white;
+$font-family-sans-serif: "Iosevka Aile Web", sans-serif;
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+
+$dark-color:  mix($primary, black, 30%);
+
+:root {
+    --primary-color: #{$primary};
+    --secondary-color: #{$secondary};
+    --primary-dark: #{$primary-dark};
+    --primary-light: #{$primary-light};
+    --display-font: "Iosevka Sparkle Web", monospace;
+    --dark-color: #{$dark-color};
+    --white: #{$body-bg};
+    --off-white: rgba(255, 255, 255, 0.8);
+}
