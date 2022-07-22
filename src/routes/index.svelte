@@ -93,7 +93,7 @@
   <footer>
     <div class="container">
       <img src="https://themelio.org/favicon.png" class="themelio-logo" />
-      a <a href="https//themelio.org">themelio</a> project
+      a <a href="https://themelio.org">themelio</a> project
     </div>
   </footer>
 </template>
