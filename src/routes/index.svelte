@@ -91,7 +91,7 @@
     </div>
   </div>
   <footer>
-    <div class="container">
+    <div class="container mb-5">
       <img src="https://themelio.org/favicon.png" class="themelio-logo" />
       a <a href="https://themelio.org">themelio</a> project
     </div>
