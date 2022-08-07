@@ -9,5 +9,6 @@
   .frame {
     width: 100%;
     height: 30rem;
+    border: none;
   }
 </style>

@@ -54,7 +54,7 @@
         <Playground />
       </div>
     </div>
-    <div class="row section">
+    <div class="row section bg-light bordered">
       <div class="col">
         <h2>Melodeon is in early alpha and changing rapidly.</h2>
         <p>
@@ -101,6 +101,10 @@
 <style>
   .container {
     max-width: 1024px;
+  }
+
+  .bordered {
+    border: 1px solid black;
   }
 
   .themelio-logo {
