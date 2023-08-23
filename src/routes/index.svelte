@@ -16,7 +16,7 @@
           <a href="https://guide.melodeonlang.org">Guide</a>
         </li>
         <li class="nav-item mx-3">
-          <a href="https://github.com/themeliolabs/melodeon">GitHub</a>
+          <a href="https://github.com/mel-project/melodeon">GitHub</a>
         </li>
       </ul>
     </div>
@@ -26,7 +26,7 @@
     <div class="row section section-invert">
       <div class="col">
         <h1 class="hero-text">
-          A user-friendly functional programming language for Themelio covenant
+          A user-friendly functional programming language for Mel covenant
           logic.
         </h1>
         <a
@@ -68,7 +68,7 @@
         </p>
         <p>
           You can follow the list of issues and planned changes on the <a
-            href="https://github.com/themeliolabs/melodeon/issues"
+            href="https://github.com/mel-project/melodeon/issues"
             >GitHub issue tracker</a
           >.
         </p>
@@ -82,8 +82,6 @@
           You can join the Melodeon chat room through <a
             href="https://discord.gg/BHhea9tVPP">Discord</a
           >
-          or
-          <a href="https://matrix.to/#/#melodeon:matrix.themelio.org">Matrix</a>
           to ask questions about Melodeon and connect with other devs.
         </p>
       </div>
@@ -92,8 +90,11 @@
   </div>
   <footer>
     <div class="container mb-5">
-      <img src="https://themelio.org/favicon.png" class="themelio-logo" />
-      a <a href="https://themelio.org">themelio</a> project
+      <img
+        src="https://melproject.org/_app/immutable/assets/logo-6250e408.png"
+        class="themelio-logo"
+      />
+      a <a href="https://melproject.org">Mel</a> project
     </div>
   </footer>
 </template>
